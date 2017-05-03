@@ -1,0 +1,51 @@
+Wed May  3 09:23:43 2017 [26921][-none-][FATAL] Could not connect to DB server localhost as sephato. port : Access denied for user 'sephato'@'localhost' (using password: YES)
+Wed May  3 09:23:43 2017 [26921][-none-][FATAL] Could Not Connect: Database Is Not Connected
+Wed May  3 09:23:43 2017 [26921][-none-][FATAL]  Query Failed: SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '' LIMIT 0,1: Database Is Not Connected
+Wed May  3 09:23:43 2017 [26921][-none-][FATAL]  Get One Failed:SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '': Database Is Not Connected
+Wed May  3 09:23:43 2017 [26921][-none-][FATAL]  Query Failed: SELECT version() version LIMIT 0,1: Database Is Not Connected
+Wed May  3 09:23:43 2017 [26921][-none-][FATAL]  Get One Failed:SELECT version() version: Database Is Not Connected
+Wed May  3 09:32:48 2017 [27116][-none-][FATAL]  Query Failed: CREATE DATABASE `sugarcrm` CHARACTER SET utf8 COLLATE utf8_general_ci: MySQL error 1044: Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:32:48 2017 [27116][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:33:18 2017 [26923][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:33:30 2017 [27102][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:33:34 2017 [27102][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:34:40 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:34:42 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:34:48 2017 [26921][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:34:50 2017 [26921][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:34:52 2017 [26921][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:34:57 2017 [26921][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:34:59 2017 [26921][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:35:37 2017 [27102][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:35:53 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:36:07 2017 [26921][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:36:42 2017 [1861][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:36:52 2017 [1858][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:36:52 2017 [1858][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:37:00 2017 [26923][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:37:00 2017 [26923][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:37:20 2017 [1860][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:37:20 2017 [1860][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:39:56 2017 [1859][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:39:56 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:39:57 2017 [1859][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:39:57 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:39:57 2017 [1859][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:39:57 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:39:57 2017 [1859][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:39:57 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:39:57 2017 [1859][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:39:57 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:39:58 2017 [1859][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:39:58 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:39:58 2017 [1859][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:39:58 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:39:58 2017 [1859][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:39:58 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:39:58 2017 [1859][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:39:58 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:39:59 2017 [1859][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:39:59 2017 [1859][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+Wed May  3 09:40:06 2017 [26921][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone Europe/Berlin. Please set date.timezone="Europe/Berlin" in php.ini!
+Wed May  3 09:40:06 2017 [26921][-none-][FATAL] Could not connect to DB server localhost as admin. port : Access denied for user 'admin'@'localhost' to database 'sugarcrm'
+    

@@ -1,0 +1,389 @@
+
+2017-05-03 07:10:53...Begin System Check Process *************
+2017-05-03 07:10:53...XML Parsing Support Found
+2017-05-03 07:10:53...MBString Support Found
+2017-05-03 07:10:53...ZIP Support Found
+2017-05-03 07:10:53...ERROR:: The config file exists but is not writeable.  Please take the necessary steps to make the file writeable.  Depending on your Operating system, this might require you to change the permissions by running chmod 766, or to right click on the filename to access the properties and uncheck the read only option.
+2017-05-03 07:10:53...ERROR:: The config override file exists but is not writeable.  Please take the necessary steps to make the file writeable.  Depending on your Operating system, this might require you to change the permissions by running chmod 766, or to right click on the filename to access the properties and uncheck the read only option.
+2017-05-03 07:10:53...ERROR:: The Custom Directory exists but is not writeable.  You may have to change permissions on it (chmod 766) or right click on it and uncheck the read only option, depending on your Operating System.  Please take the needed steps to make the file writeable.
+2017-05-03 07:10:53...ERROR:: Some subdirectories in cache subfolder were not read/writeable:
+2017-05-03 07:10:53...<br>/var/www/SugarCE-Full-6.5.25/cache/<br>/var/www/SugarCE-Full-6.5.25/cache/images<br>/var/www/SugarCE-Full-6.5.25/cache/layout<br>/var/www/SugarCE-Full-6.5.25/cache/pdf<br>/var/www/SugarCE-Full-6.5.25/cache/xml<br>/var/www/SugarCE-Full-6.5.25/cache/include/javascript
+2017-05-03 07:10:53...ERROR:: Module directories and the files under them are not writeable.
+2017-05-03 07:10:53...ERROR: Upload directory is not writable.
+2017-05-03 07:10:53.../zip check passed
+2017-05-03 07:10:53...PCRE version check passed
+2017-05-03 07:10:53...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:10:53...php.ini location found. /etc/php5/apache2/php.ini
+2017-05-03 07:10:53...Outputting HTML for System check
+2017-05-03 07:10:53...Errors were found *************
+2017-05-03 07:11:04...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:11:58...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:12:01...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:12:04...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:12:08...Begin System Check Process *************
+2017-05-03 07:12:08...XML Parsing Support Found
+2017-05-03 07:12:08...MBString Support Found
+2017-05-03 07:12:08...ZIP Support Found
+2017-05-03 07:12:08...ERROR:: The config file exists but is not writeable.  Please take the necessary steps to make the file writeable.  Depending on your Operating system, this might require you to change the permissions by running chmod 766, or to right click on the filename to access the properties and uncheck the read only option.
+2017-05-03 07:12:08...ERROR:: The config override file exists but is not writeable.  Please take the necessary steps to make the file writeable.  Depending on your Operating system, this might require you to change the permissions by running chmod 766, or to right click on the filename to access the properties and uncheck the read only option.
+2017-05-03 07:12:08...ERROR:: The Custom Directory exists but is not writeable.  You may have to change permissions on it (chmod 766) or right click on it and uncheck the read only option, depending on your Operating System.  Please take the needed steps to make the file writeable.
+2017-05-03 07:12:08...ERROR:: Some subdirectories in cache subfolder were not read/writeable:
+2017-05-03 07:12:08...<br>/var/www/SugarCE-Full-6.5.25/cache/<br>/var/www/SugarCE-Full-6.5.25/cache/images<br>/var/www/SugarCE-Full-6.5.25/cache/layout<br>/var/www/SugarCE-Full-6.5.25/cache/pdf<br>/var/www/SugarCE-Full-6.5.25/cache/xml<br>/var/www/SugarCE-Full-6.5.25/cache/include/javascript
+2017-05-03 07:12:08...ERROR:: Module directories and the files under them are not writeable.
+2017-05-03 07:12:08...ERROR: Upload directory is not writable.
+2017-05-03 07:12:08.../zip check passed
+2017-05-03 07:12:08...PCRE version check passed
+2017-05-03 07:12:08...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:12:08...php.ini location found. /etc/php5/apache2/php.ini
+2017-05-03 07:12:08...Outputting HTML for System check
+2017-05-03 07:12:08...Errors were found *************
+2017-05-03 07:13:03...Begin System Check Process *************
+2017-05-03 07:13:04...XML Parsing Support Found
+2017-05-03 07:13:04...MBString Support Found
+2017-05-03 07:13:04...ZIP Support Found
+2017-05-03 07:13:04.../custom directory and subdirectory check passed
+2017-05-03 07:13:04...ERROR:: Some subdirectories in cache subfolder were not read/writeable:
+2017-05-03 07:13:04...<br>/var/www/SugarCE-Full-6.5.25/cache/images<br>/var/www/SugarCE-Full-6.5.25/cache/layout<br>/var/www/SugarCE-Full-6.5.25/cache/pdf<br>/var/www/SugarCE-Full-6.5.25/cache/xml<br>/var/www/SugarCE-Full-6.5.25/cache/include/javascript
+2017-05-03 07:13:04...ERROR:: Module directories and the files under them are not writeable.
+2017-05-03 07:13:04.../upload directory check passed
+2017-05-03 07:13:04.../zip check passed
+2017-05-03 07:13:04...PCRE version check passed
+2017-05-03 07:13:04...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:13:04...php.ini location found. /etc/php5/apache2/php.ini
+2017-05-03 07:13:04...Outputting HTML for System check
+2017-05-03 07:13:04...Errors were found *************
+2017-05-03 07:14:44...Begin System Check Process *************
+2017-05-03 07:14:44...XML Parsing Support Found
+2017-05-03 07:14:44...MBString Support Found
+2017-05-03 07:14:44...ZIP Support Found
+2017-05-03 07:14:44.../custom directory and subdirectory check passed
+2017-05-03 07:14:44...cache directory and subdirectory check passed
+2017-05-03 07:14:44.../module  directory and subdirectory check passed
+2017-05-03 07:14:44.../upload directory check passed
+2017-05-03 07:14:44.../zip check passed
+2017-05-03 07:14:44...PCRE version check passed
+2017-05-03 07:14:44...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:14:44...php.ini location found. /etc/php5/apache2/php.ini
+2017-05-03 07:14:44...Outputting HTML for System check
+2017-05-03 07:14:44...No Errors were found *************
+2017-05-03 07:14:47...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:14:52...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:14:56...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:23:43...Begin DB Check Process *************
+2017-05-03 07:23:43...testing with mysql:mysqli
+2017-05-03 07:23:43...Basic form info is valid, continuing Process.
+2017-05-03 07:23:43...Testing user account...
+2017-05-03 07:23:43...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2017-05-03 07:23:43...Testing priviliged account...
+2017-05-03 07:23:43...Connection made using  host: localhost, usr: sephato
+2017-05-03 07:23:43...DB not selected, will create sugarcrm
+2017-05-03 07:23:43...ERROR:: Unable to check database version.
+2017-05-03 07:23:43...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2017-05-03 07:23:43..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2017-05-03 07:23:43..... Unable to check database version.
+2017-05-03 07:23:43...End DB Check Process *************
+2017-05-03 07:24:03...Begin DB Check Process *************
+2017-05-03 07:24:03...testing with mysql:mysqli
+2017-05-03 07:24:03...Basic form info is valid, continuing Process.
+2017-05-03 07:24:03...Testing user account...
+2017-05-03 07:24:03...Connection made using  host: localhost, usr: admin
+2017-05-03 07:24:03...Testing priviliged account...
+2017-05-03 07:24:03...Connection made using  host: localhost, usr: admin
+2017-05-03 07:24:03...DB not selected, will create sugarcrm
+2017-05-03 07:24:03...Passed DB install check
+2017-05-03 07:24:03...SUCCESS:: no errors detected!
+2017-05-03 07:24:03...End DB Check Process *************
+2017-05-03 07:24:03...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:24:22...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:30:21...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:30:34...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:30:36...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:31:16...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:31:18...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:31:23...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:31:28...Begin System Check Process *************
+2017-05-03 07:31:28...XML Parsing Support Found
+2017-05-03 07:31:28...MBString Support Found
+2017-05-03 07:31:28...ZIP Support Found
+2017-05-03 07:31:28.../custom directory and subdirectory check passed
+2017-05-03 07:31:28...cache directory and subdirectory check passed
+2017-05-03 07:31:28.../module  directory and subdirectory check passed
+2017-05-03 07:31:28.../upload directory check passed
+2017-05-03 07:31:28.../zip check passed
+2017-05-03 07:31:28...PCRE version check passed
+2017-05-03 07:31:28...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:31:28...php.ini location found. /etc/php5/apache2/php.ini
+2017-05-03 07:31:28...Outputting HTML for System check
+2017-05-03 07:31:28...No Errors were found *************
+2017-05-03 07:31:30...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:31:33...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:31:35...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:31:44...Begin DB Check Process *************
+2017-05-03 07:31:44...testing with mysql:mysqli
+2017-05-03 07:31:44...Basic form info is valid, continuing Process.
+2017-05-03 07:31:44...Testing user account...
+2017-05-03 07:31:44...Connection made using  host: localhost, usr: admin
+2017-05-03 07:31:44...Testing priviliged account...
+2017-05-03 07:31:44...Connection made using  host: localhost, usr: admin
+2017-05-03 07:31:44...DB not selected, will create sugarcrm
+2017-05-03 07:31:44...Passed DB install check
+2017-05-03 07:31:44...SUCCESS:: no errors detected!
+2017-05-03 07:31:44...End DB Check Process *************
+2017-05-03 07:31:44...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:31:59...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:32:48...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:32:48...calling handleSugarConfig()
+2017-05-03 07:32:48...calling handleLog4Php()
+2017-05-03 07:32:48...calling handleHtaccess()
+2017-05-03 07:32:48...calling handleDbCreateDatabase()
+2017-05-03 07:33:18...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:33:30...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:33:34...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:34:40...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:34:42...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:34:48...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:34:50...Begin System Check Process *************
+2017-05-03 07:34:50...XML Parsing Support Found
+2017-05-03 07:34:50...MBString Support Found
+2017-05-03 07:34:50...ZIP Support Found
+2017-05-03 07:34:50.../custom directory and subdirectory check passed
+2017-05-03 07:34:50...cache directory and subdirectory check passed
+2017-05-03 07:34:50.../module  directory and subdirectory check passed
+2017-05-03 07:34:50.../upload directory check passed
+2017-05-03 07:34:50.../zip check passed
+2017-05-03 07:34:50...PCRE version check passed
+2017-05-03 07:34:50...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:34:50...php.ini location found. /etc/php5/apache2/php.ini
+2017-05-03 07:34:50...Outputting HTML for System check
+2017-05-03 07:34:50...No Errors were found *************
+2017-05-03 07:34:52...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:34:57...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:34:59...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:35:37...Begin DB Check Process *************
+2017-05-03 07:35:37...testing with mysql:mysqli
+2017-05-03 07:35:37...Basic form info is valid, continuing Process.
+2017-05-03 07:35:37...Testing user account...
+2017-05-03 07:35:37...Connection made using  host: localhost, usr: root
+2017-05-03 07:35:37...Testing priviliged account...
+2017-05-03 07:35:37...Connection made using  host: localhost, usr: root
+2017-05-03 07:35:37...ERROR:: The provided Database Name already exists.  You can<br>1.  hit the back button and choose a new database name <br>2.  click next and continue but all existing tables on this database will be dropped.  <strong>This means your tables and data will be blown away.</strong>
+2017-05-03 07:35:37...Passed DB install check
+2017-05-03 07:35:37...WARNING:: no errors detected, but DB tables will be dropped!, issuing warning to user
+2017-05-03 07:35:37...End DB Check Process *************
+2017-05-03 07:35:53...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:36:07...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:36:14...installerHook: Could not find custom/install/install_hooks.php
+2017-05-03 07:36:14...calling handleSugarConfig()
+2017-05-03 07:36:14...calling handleLog4Php()
+2017-05-03 07:36:14...calling handleHtaccess()
+2017-05-03 07:36:14...calling handleDbCharsetCollation()
+2017-05-03 07:36:14...looping through all the Beans and create their tables
+2017-05-03 07:36:14...processing table acl_actions
+2017-05-03 07:36:14...dropping table acl_actions
+2017-05-03 07:36:14...creating table acl_actions
+2017-05-03 07:36:14...creating Relationship Meta for ACLAction
+2017-05-03 07:36:14...processing table acl_roles
+2017-05-03 07:36:14...dropping table acl_roles
+2017-05-03 07:36:14...creating table acl_roles
+2017-05-03 07:36:14...creating Relationship Meta for ACLRole
+2017-05-03 07:36:14...processing table relationships
+2017-05-03 07:36:14...dropping table relationships
+2017-05-03 07:36:14...creating table relationships
+2017-05-03 07:36:14...creating Relationship Meta for Relationship
+2017-05-03 07:36:14...processing table leads
+2017-05-03 07:36:14...dropping table leads
+2017-05-03 07:36:15...creating table leads
+2017-05-03 07:36:15...creating Relationship Meta for Lead
+2017-05-03 07:36:15...processing table cases
+2017-05-03 07:36:15...dropping table cases
+2017-05-03 07:36:15...creating table cases
+2017-05-03 07:36:15...creating Relationship Meta for Case
+2017-05-03 07:36:15...processing table bugs
+2017-05-03 07:36:15...dropping table bugs
+2017-05-03 07:36:15...creating table bugs
+2017-05-03 07:36:15...creating Relationship Meta for Bug
+2017-05-03 07:36:15...processing table users
+2017-05-03 07:36:15...dropping table users
+2017-05-03 07:36:16...creating table users
+2017-05-03 07:36:16...creating Relationship Meta for User
+2017-05-03 07:36:16...processing table campaign_log
+2017-05-03 07:36:16...dropping table campaign_log
+2017-05-03 07:36:16...creating table campaign_log
+2017-05-03 07:36:16...creating Relationship Meta for CampaignLog
+2017-05-03 07:36:16...processing table project
+2017-05-03 07:36:16...dropping table project
+2017-05-03 07:36:16...creating table project
+2017-05-03 07:36:16...creating Relationship Meta for Project
+2017-05-03 07:36:16...processing table project_task
+2017-05-03 07:36:16...dropping table project_task
+2017-05-03 07:36:16...creating table project_task
+2017-05-03 07:36:16...creating Relationship Meta for ProjectTask
+2017-05-03 07:36:16...processing table campaigns
+2017-05-03 07:36:16...dropping table campaigns
+2017-05-03 07:36:17...creating table campaigns
+2017-05-03 07:36:17...creating Relationship Meta for Campaign
+2017-05-03 07:36:17...processing table prospect_lists
+2017-05-03 07:36:17...dropping table prospect_lists
+2017-05-03 07:36:17...creating table prospect_lists
+2017-05-03 07:36:17...creating Relationship Meta for ProspectList
+2017-05-03 07:36:17...processing table prospects
+2017-05-03 07:36:17...dropping table prospects
+2017-05-03 07:36:17...creating table prospects
+2017-05-03 07:36:17...creating Relationship Meta for Prospect
+2017-05-03 07:36:17...processing table email_marketing
+2017-05-03 07:36:17...dropping table email_marketing
+2017-05-03 07:36:17...creating table email_marketing
+2017-05-03 07:36:17...creating Relationship Meta for EmailMarketing
+2017-05-03 07:36:17...processing table campaign_trkrs
+2017-05-03 07:36:17...dropping table campaign_trkrs
+2017-05-03 07:36:17...creating table campaign_trkrs
+2017-05-03 07:36:17...creating Relationship Meta for CampaignTracker
+2017-05-03 07:36:18...processing table releases
+2017-05-03 07:36:18...dropping table releases
+2017-05-03 07:36:18...creating table releases
+2017-05-03 07:36:18...creating Relationship Meta for Release
+2017-05-03 07:36:18...processing table emailman
+2017-05-03 07:36:18...dropping table emailman
+2017-05-03 07:36:18...creating table emailman
+2017-05-03 07:36:18...creating Relationship Meta for EmailMan
+2017-05-03 07:36:18...processing table schedulers
+2017-05-03 07:36:18...dropping table schedulers
+2017-05-03 07:36:18...creating table schedulers
+2017-05-03 07:36:18...creating Relationship Meta for Scheduler
+2017-05-03 07:36:18...processing table job_queue
+2017-05-03 07:36:18...dropping table job_queue
+2017-05-03 07:36:18...creating table job_queue
+2017-05-03 07:36:18...creating Relationship Meta for SchedulersJob
+2017-05-03 07:36:18...processing table contacts
+2017-05-03 07:36:18...dropping table contacts
+2017-05-03 07:36:19...creating table contacts
+2017-05-03 07:36:19...creating Relationship Meta for Contact
+2017-05-03 07:36:19...processing table accounts
+2017-05-03 07:36:19...dropping table accounts
+2017-05-03 07:36:19...creating table accounts
+2017-05-03 07:36:19...creating Relationship Meta for Account
+2017-05-03 07:36:20...processing table opportunities
+2017-05-03 07:36:20...dropping table opportunities
+2017-05-03 07:36:20...creating table opportunities
+2017-05-03 07:36:20...creating Relationship Meta for Opportunity
+2017-05-03 07:36:20...processing table email_templates
+2017-05-03 07:36:20...dropping table email_templates
+2017-05-03 07:36:20...creating table email_templates
+2017-05-03 07:36:20...creating Relationship Meta for EmailTemplate
+2017-05-03 07:36:20...processing table notes
+2017-05-03 07:36:20...dropping table notes
+2017-05-03 07:36:20...creating table notes
+2017-05-03 07:36:20...creating Relationship Meta for Note
+2017-05-03 07:36:20...processing table calls
+2017-05-03 07:36:20...dropping table calls
+2017-05-03 07:36:21...creating table calls
+2017-05-03 07:36:21...creating Relationship Meta for Call
+2017-05-03 07:36:21...processing table emails
+2017-05-03 07:36:21...dropping table emails
+2017-05-03 07:36:22...creating table emails
+2017-05-03 07:36:22...creating Relationship Meta for Email
+2017-05-03 07:36:22...processing table meetings
+2017-05-03 07:36:22...dropping table meetings
+2017-05-03 07:36:22...creating table meetings
+2017-05-03 07:36:22...creating Relationship Meta for Meeting
+2017-05-03 07:36:23...processing table tasks
+2017-05-03 07:36:23...dropping table tasks
+2017-05-03 07:36:23...creating table tasks
+2017-05-03 07:36:23...creating Relationship Meta for Task
+2017-05-03 07:36:23...processing table users
+2017-05-03 07:36:23...processing table users
+2017-05-03 07:36:23...processing table currencies
+2017-05-03 07:36:23...dropping table currencies
+2017-05-03 07:36:23...creating table currencies
+2017-05-03 07:36:23...creating Relationship Meta for Currency
+2017-05-03 07:36:23...processing table tracker
+2017-05-03 07:36:23...dropping table tracker
+2017-05-03 07:36:23...creating table tracker
+2017-05-03 07:36:23...creating Relationship Meta for Tracker
+2017-05-03 07:36:23...processing table import_maps
+2017-05-03 07:36:23...dropping table import_maps
+2017-05-03 07:36:24...creating table import_maps
+2017-05-03 07:36:24...creating Relationship Meta for ImportMap
+2017-05-03 07:36:24...processing table users_last_import
+2017-05-03 07:36:24...dropping table users_last_import
+2017-05-03 07:36:24...creating table users_last_import
+2017-05-03 07:36:24...creating Relationship Meta for UsersLastImport
+2017-05-03 07:36:24...processing table config
+2017-05-03 07:36:24...dropping table config
+2017-05-03 07:36:24...creating table config
+2017-05-03 07:36:24...creating Relationship Meta for Administration
+2017-05-03 07:36:24...processing table upgrade_history
+2017-05-03 07:36:24...dropping table upgrade_history
+2017-05-03 07:36:24...creating table upgrade_history
+2017-05-03 07:36:24...creating Relationship Meta for UpgradeHistory
+2017-05-03 07:36:24...processing table vcals
+2017-05-03 07:36:24...dropping table vcals
+2017-05-03 07:36:24...creating table vcals
+2017-05-03 07:36:24...creating Relationship Meta for vCal
+2017-05-03 07:36:24...processing table versions
+2017-05-03 07:36:24...dropping table versions
+2017-05-03 07:36:24...creating table versions
+2017-05-03 07:36:24...creating Relationship Meta for Version
+2017-05-03 07:36:24...processing table roles
+2017-05-03 07:36:24...dropping table roles
+2017-05-03 07:36:24...creating table roles
+2017-05-03 07:36:24...creating Relationship Meta for Role
+2017-05-03 07:36:24...processing table documents
+2017-05-03 07:36:24...dropping table documents
+2017-05-03 07:36:26...creating table documents
+2017-05-03 07:36:26...creating Relationship Meta for Document
+2017-05-03 07:36:26...processing table document_revisions
+2017-05-03 07:36:26...dropping table document_revisions
+2017-05-03 07:36:26...creating table document_revisions
+2017-05-03 07:36:26...creating Relationship Meta for DocumentRevision
+2017-05-03 07:36:26...processing table fields_meta_data
+2017-05-03 07:36:26...dropping table fields_meta_data
+2017-05-03 07:36:26...creating table fields_meta_data
+2017-05-03 07:36:26...creating Relationship Meta for FieldsMetaData
+2017-05-03 07:36:26...processing table inbound_email
+2017-05-03 07:36:26...dropping table inbound_email
+2017-05-03 07:36:26...creating table inbound_email
+2017-05-03 07:36:26...creating Relationship Meta for InboundEmail
+2017-05-03 07:36:26...processing table saved_search
+2017-05-03 07:36:26...dropping table saved_search
+2017-05-03 07:36:26...creating table saved_search
+2017-05-03 07:36:26...creating Relationship Meta for SavedSearch
+2017-05-03 07:36:26...processing table user_preferences
+2017-05-03 07:36:26...dropping table user_preferences
+2017-05-03 07:36:26...creating table user_preferences
+2017-05-03 07:36:26...creating Relationship Meta for UserPreference
+2017-05-03 07:36:26...processing table 
+2017-05-03 07:36:26...processing table email_addresses
+2017-05-03 07:36:26...dropping table email_addresses
+2017-05-03 07:36:26...creating table email_addresses
+2017-05-03 07:36:26...creating Relationship Meta for EmailAddress
+2017-05-03 07:36:26...processing table emails_text
+2017-05-03 07:36:26...dropping table emails_text
+2017-05-03 07:36:26...creating table emails_text
+2017-05-03 07:36:26...creating Relationship Meta for EmailText
+2017-05-03 07:36:26...processing table sugarfeed
+2017-05-03 07:36:26...dropping table sugarfeed
+2017-05-03 07:36:27...creating table sugarfeed
+2017-05-03 07:36:27...creating Relationship Meta for SugarFeed
+2017-05-03 07:36:27...processing table eapm
+2017-05-03 07:36:27...dropping table eapm
+2017-05-03 07:36:27...creating table eapm
+2017-05-03 07:36:27...creating Relationship Meta for EAPM
+2017-05-03 07:36:27...processing table oauth_consumer
+2017-05-03 07:36:27...dropping table oauth_consumer
+2017-05-03 07:36:27...creating table oauth_consumer
+2017-05-03 07:36:27...creating Relationship Meta for OAuthKey
+2017-05-03 07:36:27...processing table oauth_tokens
+2017-05-03 07:36:27...dropping table oauth_tokens
+2017-05-03 07:36:27...creating table oauth_tokens
+2017-05-03 07:36:27...creating Relationship Meta for OAuthToken
+2017-05-03 07:36:29...Begin creating Defaults
+2017-05-03 07:36:29...insert defaults into config table
+2017-05-03 07:36:29...Creating default users
+2017-05-03 07:36:30...Creating default scheduler jobs
+2017-05-03 07:36:30...Enable SugarFeeds
+2017-05-03 07:36:30...Enable InsideView Connector
+2017-05-03 07:36:30...Creating FTS logic hook
+2017-05-03 07:36:30...populating the db with seed data
+2017-05-03 07:36:30...Installation has completed *********
+2017-05-03 07:36:42...installerHook: Could not find custom/install/install_hooks.php
